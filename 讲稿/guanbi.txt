@@ -1,0 +1,4 @@
+sudo service ssh restart
+
+
+ps -e |grep ssh
